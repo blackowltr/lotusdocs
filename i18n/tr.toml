@@ -1,0 +1,38 @@
+[lang_select_title]
+    other = "Dili Seçin"
+
+[search_title]
+    other = "Arama"
+
+[search_navigate]
+    other = "Gezinmek için"
+
+[search_select]
+    other = "Seçmek için"
+
+[search_close]
+    other = "Kapatmak için"
+
+[search_cancel]
+    other = "İptal"
+
+[search_no_results]
+    other = "İçin sonuç yok"
+
+[feedback_yes]
+    other = "Evet"
+
+[feedback_no]
+    other = "Hayır"
+
+[feedback_helpful]
+    other = "Bu sayfa yararlı mıydı?"
+
+[feedback_submit]
+    other = "Gönder"
+
+[enable_light_mode]
+    other = "Işık modunu etkinleştir"
+
+[enable_dark_mode]
+    other = "Karanlık modunu etkinleştir"
